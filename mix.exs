@@ -10,7 +10,7 @@ defmodule PhxRaws.Mixfile do
       start_permanent: Mix.env == :prod,
       deps: [
         {:plug, "~> 1.4.3"},
-        {:phoenix, "~> 1.3.0"}
+        {:phoenix, "~> 1.4.9"}
       ]
     ]
   end
